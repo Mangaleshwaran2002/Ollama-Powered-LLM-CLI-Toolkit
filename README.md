@@ -27,7 +27,7 @@ To run this application, you'll need to install the following Python packages:
 Step 1: **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/ollama-cli-toolkit.git
+git clone https://github.com/Mangaleshwaran2002/Ollama-Powered-LLM-CLI-Toolkit.git
 cd ollama-cli-toolkit
 ```
 Step 2: **Install dependencies**
