@@ -14,9 +14,7 @@ It provides convenient utilities for model management (listing, selecting, downl
 - **Error Handling**
     - Unified handling of Ollama connection errors with clear, colored messages and graceful termination.
 # Screenshots
-![LLM CLI Toolkit-s1](https://raw.githubusercontent.com/Mangaleshwaran2002/AI-Trip-Planner/refs/heads/master/Screenshot/AI-Trip-planner-s1.png)
-![LLM CLI Toolkit-s2](https://raw.githubusercontent.com/Mangaleshwaran2002/AI-Trip-Planner/refs/heads/master/Screenshot/AI-Trip-planner-s2.png)
-![LLM CLI Toolkit-gif](https://raw.githubusercontent.com/Mangaleshwaran2002/AI-Trip-Planner/refs/heads/master/Screenshot/AI-Trip-planner-gif.gif)
+![LLM CLI Toolkit-gif](https://raw.githubusercontent.com/Mangaleshwaran2002/Ollama-Powered-LLM-CLI-Toolkit/refs/heads/master/screenshots/Screen_Recording.gif)
 
 ## Requirements
 
