@@ -1,6 +1,5 @@
 from main import LLM
 from rich.console import Console
-from rich.markdown import Markdown
 console=Console()
 llm=LLM()
 

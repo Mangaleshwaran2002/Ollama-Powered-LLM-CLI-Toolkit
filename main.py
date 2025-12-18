@@ -9,7 +9,6 @@ from rich.table import Table
 from rich.padding import Padding
 from rich.prompt import Prompt
 from typing import Generator, List, Optional
-import time
 # Initialize the rich console
 console = Console()
 
